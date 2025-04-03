@@ -1,0 +1,4 @@
+[package]
+org = "fitnessbeasts"
+name = "customer_support_agent"
+version = "0.1.0"
